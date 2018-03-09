@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Limousine</string>
+    <string name="company_name">Limousine Company</string>
+    <string name="number_of_passenger">Number of passengers</string>
+    <string name="enter_number_of_passengers">Enter Number of Passengers</string>
+    <string name="next_button">Next</string>
+    <string name="less_than_0_passenger">Passenger must be greater than 0</string>
 </resources>
